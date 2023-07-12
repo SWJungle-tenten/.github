@@ -26,8 +26,8 @@
 
 1. [프로젝트 개요](#GooglingHelper)
 2. [서비스 소개](#Intro)
-3. [서비스 구조도](#Arch)
-4. [프로젝트 포스터](#Poster)
+4. [서비스 구조도](#Arch)
+5. [프로젝트 포스터](#Poster)
 
 <!-- ABOUT THE PROJECT -->
 
@@ -97,7 +97,7 @@
    </tr>
 
   </table>
-  
+
 #### 2. 링크 스크랩하기
 
 - 스크랩한 사이트들을 홈페이지에서 한 눈에 모아볼 수 있습니다.
@@ -178,11 +178,8 @@
 <a name="Arch"></a>
 
 ## 서비스 구조도
-<!--   추가해야하는 부분   -->
-<!--
-![image](https://user-images.githubusercontent.com/101175828/214384335-2e829ad4-d4c2-40f0-be71-cf2ebcfc8166.png)
--->
-<!--   추가해야하는 부분   -->
+![image](https://github.com/SWJungle-tenten/.github/assets/126440955/43be9242-df45-4cc7-a44c-5e6659aaa3f6)
+
 <p align="right">(<a href="#readme-top">맨 위로</a>)</p>
 
 <!-- 포스터 -->
@@ -190,11 +187,8 @@
 <a name="Poster"> </a>
 
 ## 프로젝트 포스터
-<!--   추가해야하는 부분   -->
-<!--
-![image](https://user-images.githubusercontent.com/109822768/219306111-d702e6cd-c619-45ef-9aa5-a850e5e0158b.png)
--->
-<!--   추가해야하는 부분   -->
+![image](https://github.com/SWJungle-tenten/.github/assets/126440955/c6fca7e9-c906-4e76-a4b7-9ddef33098bb)
+
 <p align="right">(<a href="#readme-top">맨 위로</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
