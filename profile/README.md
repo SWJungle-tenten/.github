@@ -22,8 +22,16 @@
 
 1. [프로젝트 개요](#GooglingHelper)
 2. [서비스 소개](#Intro)
-4. [서비스 구조도](#Arch)
-5. [프로젝트 포스터](#Poster)
+3. [서비스 구조도](#Arch)
+4. [프로젝트 포스터](#Poster)
+
+## 시연 영상
+
+[바로가기](https://youtu.be/xxpbxBdquFA)
+
+## 현장 발표 영상
+
+[바로가기](https://youtu.be/KwXlMewHekY)
 
 <!-- ABOUT THE PROJECT -->
 
