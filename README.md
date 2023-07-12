@@ -1,4 +1,4 @@
-# GooglingHelper [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2310C634&title_bg=%23126AE1&icon=google.svg&icon_color=%23C20000&title=GooglingHelper&edge_flat=true)](https://hits.seeyoufarm.com)
+# GooglingHelper [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae123%2Fhit-counter&count_bg=%2310C634&title_bg=%23126AE1&icon=google.svg&icon_color=%23C20000&title=GooglingHelper&edge_flat=true)](https://hits.seeyoufarm.com)
 <a name="readme-top"></a>
 
 <!-- PROJECT LOGO -->
