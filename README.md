@@ -90,14 +90,14 @@
 
 - 게시물 목록의 사이트를 직접 접속하지 않고 미리 볼 수 있습니다.
 
-   <table border="0" >
-    <tr>
+<table border="0" >
+  <tr>
     <!--   추가해야하는 부분   -->
 <!--         <td><img width="400" height="200" src="https://user-images.githubusercontent.com/101175828/216561610-7b3c0b07-2924-4414-be78-281ea964e699.gif"> </img></td>
         <td><img width="400" height="200" src="https://user-images.githubusercontent.com/101175828/216561650-8a524521-d6d2-46fd-91af-0f1cedb5fa21.gif"></img></td> -->
-   </tr>
+  </tr>
 
-  </table>
+</table>
 
 #### 2. 링크 스크랩하기
 
