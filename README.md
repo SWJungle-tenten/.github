@@ -1,15 +1,11 @@
-# GooglingHelper 
-<!--   추가해야하는 부분   -->
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSY-Highlighters%2FHighlighters%2Ftree%2Fdevelop&count_bg=%233DB4C8&title_bg=%23555555&icon=krita.svg&icon_color=%23E7E7E7&title=Highlighters&edge_flat=false)](https://hits.seeyoufarm.com) -->
-<!--   추가해야하는 부분   -->
+# GooglingHelper [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2310C634&title_bg=%23126AE1&icon=google.svg&icon_color=%23C20000&title=GooglingHelper&edge_flat=true)](https://hits.seeyoufarm.com)
 <a name="readme-top"></a>
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://googlinghelper.shop" target="_blank">
-<!--   추가해야하는 부분   -->
-<!--     <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F31yWM%2FbtrXCZpaP2S%2FyqPF5xC7b25iYzKE5KflE1%2Fimg.png" alt="Logo" width="" height=""> -->
+![image](https://github.com/SWJungle-tenten/.github/assets/126440955/c972001b-c330-45ee-8737-3f3a4222a73d.png)
   </a>
 
   <p align="center">
@@ -42,9 +38,9 @@
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Frontend**              | <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">  <img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> |
 | **Extension**             | <img src="https://img.shields.io/badge/Extension Manifest v3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">                                                                                                    |
-| **Backend**               | <img src="https://img.shields.io/badge/expressjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">                                                                                                                                                                                                                                                                                                                                         |
+| **Backend**               | <img src="https://img.shields.io/badge/expressjs-E0234E?style=for-the-badge&logo=expressjs&logoColor=white">                                                                                                                                                                                                                                                                                                                                         |
 | **Database**              | <img src="https://img.shields.io/badge/mongoDB-DC382D?style=for-the-badge&logo=mongoDB&logoColor=green">                                                                                                                 |
-| **Infrastructure/DevOps** | <img src="https://img.shields.io/badge/Load-balance-009639?style=for-the-badge&logo=Load-balance&logoColor=white"> <img src="https://img.shields.io/badge/aws_lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/aws_s3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white">            |
+| **Infrastructure/DevOps** | <img src="https://img.shields.io/badge/loadBalance-009639?style=for-the-badge&logo=loadBalance&logoColor=white"> <img src="https://img.shields.io/badge/aws_lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/aws_s3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white">            |
 
 팀원 : [안성범](https://github.com/SungBeum)(TL/FE), [김동진](https://github.com/terrydkim)(FE), [황채림](https://github.com/cofla159)(FE), [이상운](https://github.com/Sangun-Lee-6)(BE), [임혜정](https://github.com/HJUNG118)(BE)
 
