@@ -156,15 +156,15 @@
 
 - 부분 스크랩한 **이미지**를 한 번에 모아볼 수 있습니다.
 - 부분 스크랩한 **텍스트**를 한 번에 모아볼 수 있습니다.
-    <table border="0" >
-    <tr>
+<table border="0" >
+  <tr>
     <!--   추가해야하는 부분   -->
 <!--         <td>    <img src="https://user-images.githubusercontent.com/101175828/216554937-47c37f6d-5eb7-4285-86f4-ab150506d98b.png"></img></td>
         <td>    <img src="https://user-images.githubusercontent.com/101175828/216554961-c3c90f2b-6a71-4265-8bb3-d9c8cf8022ed.png"> </img></td>
         <td>    <img src="https://user-images.githubusercontent.com/101175828/216554978-c0545a1f-4705-44f1-bc2e-5c2403cc9777.png"> </img></td> -->
-   </tr>
+  </tr>
 
-  </table>
+</table>
 
 #### 8. 검색 기능
 
