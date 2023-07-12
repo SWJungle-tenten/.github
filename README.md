@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://googlinghelper.shop" target="_blank">
-![image](https://github.com/SWJungle-tenten/.github/assets/126440955/c972001b-c330-45ee-8737-3f3a4222a73d.png)
+    <img src="https://github.com/SWJungle-tenten/.github/assets/126440955/c972001b-c330-45ee-8737-3f3a4222a73d">
   </a>
 
   <p align="center">
