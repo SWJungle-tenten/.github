@@ -1,5 +1,7 @@
-# GooglingHelper [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSY-Highlighters%2FHighlighters%2Ftree%2Fdevelop&count_bg=%233DB4C8&title_bg=%23555555&icon=krita.svg&icon_color=%23E7E7E7&title=Highlighters&edge_flat=false)](https://hits.seeyoufarm.com)
-
+# GooglingHelper 
+<!--   추가해야하는 부분   -->
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSY-Highlighters%2FHighlighters%2Ftree%2Fdevelop&count_bg=%233DB4C8&title_bg=%23555555&icon=krita.svg&icon_color=%23E7E7E7&title=Highlighters&edge_flat=false)](https://hits.seeyoufarm.com) -->
+<!--   추가해야하는 부분   -->
 <a name="readme-top"></a>
 
 <!-- PROJECT LOGO -->
@@ -44,8 +46,8 @@
 | **Backend**               | <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">                                                                                                                                                                                                                                                                                                                                         |
 | **Database**              | <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">                                                                                                                 |
 | **Infrastructure/DevOps** | <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/aws_lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/aws_s3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white">            | -->
-
-팀원 : [안성범](https://github.com/SungBeum)(TL/FE), [김동진](https://github.com/ChoHon)(FE), [황채림](https://github.com/devsungtae)(FE), [이상운](https://github.com/Louis-Gil)(BE), [임혜정](https://github.com/ChoBae)(BE)
+<!--   추가해야하는 부분   -->
+팀원 : [안성범](https://github.com/SungBeum)(TL/FE), [김동진](https://github.com/terrydkim)(FE), [황채림](https://github.com/cofla159)(FE), [이상운](https://github.com/Sangun-Lee-6)(BE), [임혜정](https://github.com/HJUNG118)(BE)
 <!--   추가해야하는 부분   -->
 <!-- 서비스 사용 설명서 : [바로가기](https://www.notion.so/yeriiin/Highlighters-b7074bda3ec542e7bd4002babca6e5fc) -->
 <!--   추가해야하는 부분   -->
@@ -88,6 +90,7 @@
 - 게시물 목록의 사이트를 직접 접속하지 않고 미리 볼 수 있습니다.
    <table border="0" >
     <tr>
+    <!--   추가해야하는 부분   -->
 <!--         <td><img width="400" height="200" src="https://user-images.githubusercontent.com/101175828/216561610-7b3c0b07-2924-4414-be78-281ea964e699.gif"> </img></td>
         <td><img width="400" height="200" src="https://user-images.githubusercontent.com/101175828/216561650-8a524521-d6d2-46fd-91af-0f1cedb5fa21.gif"></img></td> -->
    </tr>
@@ -95,6 +98,7 @@
   </table>
 #### 2. 링크 스크랩하기
 - 스크랩한 사이트들을 홈페이지에서 한 눈에 모아볼 수 있습니다.
+<!--   추가해야하는 부분   -->
   <!-- <div>
     <img width="300" height="160"  src="https://user-images.githubusercontent.com/101175828/216537143-2f7bcd1f-9d30-42f8-86de-10587673a030.gif"></img>
     <img width="300" height="160" src="https://user-images.githubusercontent.com/101175828/216537281-4498ad2d-a8c5-44fa-9c54-e0ab51c337cb.gif"> </img>
@@ -110,8 +114,9 @@
 #### 3. 이미지 부분스크랩하기
 
 - 캡처기능을 이용해 부분적으로 스크랩하고 싶은 이미지를 스크랩할 수 있습니다.
-- 스크랩한 이미지는 홈페이지에서 메모에 Drag&Drop
+- 스크랩한 이미지는 홈페이지에서 메모로 Drag&Drop 할 수 있도록 변환되어 있습니다.
   <div>
+  <!--   추가해야하는 부분   -->
 <!--     <img width="400" height="230" src="https://user-images.githubusercontent.com/101175828/216539463-35aa8836-9b30-41c0-aeac-ef03335c031e.gif"> </img>
     <img width="300" height="230" src="https://user-images.githubusercontent.com/101175828/216539648-c765fe17-f104-4500-96ab-0a074e0e70d2.gif"> </img> -->
   </div>
@@ -121,6 +126,7 @@
 - 캡처기능을 이용해 부분적으로 스크랩하고 싶은 텍스트를 스크랩할 수 있습니다.
 - 스크랩한 텍스트는 홈페이지에서 메모에 Drag&Drop 할 수 있도록 변환되어 있습니다.
   <div>
+  <!--   추가해야하는 부분   -->
 <!--     <img  src="https://user-images.githubusercontent.com/101175828/216539214-8ee34979-d587-49df-a343-38fcc02f5be5.gif"> </img> -->
   </div>
 #### 5. 메모장
@@ -128,6 +134,7 @@
 - 스크랩한 자료들을 Drag&Drop 으로 간편하게 메모에 넣을 수 있습니다.
 - 메모를 자유롭게 편집할 수 있습니다.
    <div>
+   <!--   추가해야하는 부분   -->
 <!--     <img width="400" height="400" src="https://user-images.githubusercontent.com/101175828/216554060-f565c9d9-2904-4ed3-890b-ce310bee307f.gif"> </img> -->
   </div>
 
@@ -136,6 +143,7 @@
 - **날짜별**로 스크랩한 자료들과 사이트를 홈페이지에서 한 번에 모아볼 수 있습니다.
 - **검색어별**로 스크랩한 자료들과 사이트를 홈페이지에서 한 번에 모아볼 수 있습니다.
    <div>
+   <!--   추가해야하는 부분   -->
 <!--     <img width="400" height="230" src="https://user-images.githubusercontent.com/101175828/216561358-16fb58e4-8401-406f-bdb4-5a42b8dc047b.gif"> </img> -->
   </div>
 
@@ -145,6 +153,7 @@
 - 부분 스크랩한 **텍스트**를 한 번에 모아볼 수 있습니다.
     <table border="0" >
     <tr>
+    <!--   추가해야하는 부분   -->
 <!--         <td>    <img src="https://user-images.githubusercontent.com/101175828/216554937-47c37f6d-5eb7-4285-86f4-ab150506d98b.png"></img></td>
         <td>    <img src="https://user-images.githubusercontent.com/101175828/216554961-c3c90f2b-6a71-4265-8bb3-d9c8cf8022ed.png"> </img></td>
         <td>    <img src="https://user-images.githubusercontent.com/101175828/216554978-c0545a1f-4705-44f1-bc2e-5c2403cc9777.png"> </img></td> -->
@@ -156,6 +165,7 @@
 
 - 검색한 내용을 포함한 스크랩한 텍스트를 찾아내 보여줍니다.
   <div>
+  <!--   추가해야하는 부분   -->
 <!--     <img src="https://user-images.githubusercontent.com/101175828/216539091-6fe20844-8241-49ef-9c0d-764449dbca8c.gif"> </img> -->
   </div>
 
@@ -165,6 +175,7 @@
 
 ## 서비스 구조도
 <!--
+<!--   추가해야하는 부분   -->
 ![image](https://user-images.githubusercontent.com/101175828/214384335-2e829ad4-d4c2-40f0-be71-cf2ebcfc8166.png)
 -->
 <p align="right">(<a href="#readme-top">맨 위로</a>)</p>
@@ -175,6 +186,7 @@
 
 ## 프로젝트 포스터
 <!--
+<!--   추가해야하는 부분   -->
 ![image](https://user-images.githubusercontent.com/109822768/219306111-d702e6cd-c619-45ef-9aa5-a850e5e0158b.png)
 -->
 <p align="right">(<a href="#readme-top">맨 위로</a>)</p>
