@@ -174,10 +174,11 @@
 <a name="Arch"></a>
 
 ## 서비스 구조도
-<!--
 <!--   추가해야하는 부분   -->
+<!--
 ![image](https://user-images.githubusercontent.com/101175828/214384335-2e829ad4-d4c2-40f0-be71-cf2ebcfc8166.png)
 -->
+<!--   추가해야하는 부분   -->
 <p align="right">(<a href="#readme-top">맨 위로</a>)</p>
 
 <!-- 포스터 -->
@@ -185,10 +186,11 @@
 <a name="Poster"> </a>
 
 ## 프로젝트 포스터
-<!--
 <!--   추가해야하는 부분   -->
+<!--
 ![image](https://user-images.githubusercontent.com/109822768/219306111-d702e6cd-c619-45ef-9aa5-a850e5e0158b.png)
 -->
+<!--   추가해야하는 부분   -->
 <p align="right">(<a href="#readme-top">맨 위로</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
