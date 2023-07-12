@@ -31,7 +31,7 @@
 
 ## 현장 발표 영상
 
-[바로가기](https://youtu.be/KwXlMewHekY)
+[바로가기](https://youtu.be/GlJD88dwDxQ)
 
 <!-- ABOUT THE PROJECT -->
 
