@@ -178,9 +178,9 @@
 <a name="Arch"></a>
 
 ## 서비스 구조도
-<div>
-  ![image](https://github.com/SWJungle-tenten/.github/assets/126440955/43be9242-df45-4cc7-a44c-5e6659aaa3f6)
-</div>
+
+  ![image](https://github.com/SWJungle-tenten/.github/assets/126440955/43be9242-df45-4cc7-a44c-5e6659aaa3f6.png)
+
 <p align="right">(<a href="#readme-top">맨 위로</a>)</p>
 
 <!-- 포스터 -->
@@ -188,7 +188,7 @@
 <a name="Poster"> </a>
 
 ## 프로젝트 포스터
-![image](https://github.com/SWJungle-tenten/.github/assets/126440955/c6fca7e9-c906-4e76-a4b7-9ddef33098bb)
+![image](https://github.com/SWJungle-tenten/.github/assets/126440955/c6fca7e9-c906-4e76-a4b7-9ddef33098bb.png)
 
 <p align="right">(<a href="#readme-top">맨 위로</a>)</p>
 
