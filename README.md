@@ -176,7 +176,7 @@
 
 ## 서비스 구조도
 
-  ![image](https://github.com/SWJungle-tenten/.github/assets/126440955/43be9242-df45-4cc7-a44c-5e6659aaa3f6.png)
+![image](https://github.com/SWJungle-tenten/.github/assets/126440955/033a80a6-7286-48ec-9863-9dd5cbb4a679)
 
 <p align="right">(<a href="#readme-top">맨 위로</a>)</p>
 
@@ -185,7 +185,7 @@
 <a name="Poster"> </a>
 
 ## 프로젝트 포스터
-![image](https://github.com/SWJungle-tenten/.github/assets/126440955/c6fca7e9-c906-4e76-a4b7-9ddef33098bb.png)
+![image](https://github.com/SWJungle-tenten/.github/assets/126440955/c6fca7e9-c906-4e76-a4b7-9ddef33098bb)
 
 <p align="right">(<a href="#readme-top">맨 위로</a>)</p>
 
