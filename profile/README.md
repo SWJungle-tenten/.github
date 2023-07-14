@@ -95,11 +95,11 @@
 
 <table border="0" >
   <tr>
-<td>
+<!-- <td>
   <video width="400" height="200" controls>
     <source src="https://youtu.be/1q3YnXnNhp8" type="video/mp4">
   </video>
-</td>
+</td> -->
 
   </tr>
 
