@@ -96,7 +96,6 @@
 <table border="0" >
   <tr>
    <td><img width="400" height="200" src="https://youtu.be/1q3YnXnNhp8"> </img></td>
-         <td><img width="400" height="200" src="https://user-images.githubusercontent.com/101175828/216561650-8a524521-d6d2-46fd-91af-0f1cedb5fa21.gif"></img></td>
 </td>
 
   </tr>
