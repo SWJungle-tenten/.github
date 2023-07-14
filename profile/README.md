@@ -95,9 +95,13 @@
 
 <table border="0" >
   <tr>
-    <!--   추가해야하는 부분   -->
-<!--         <td><img width="400" height="200" src="https://user-images.githubusercontent.com/101175828/216561610-7b3c0b07-2924-4414-be78-281ea964e699.gif"> </img></td>
-        <td><img width="400" height="200" src="https://user-images.githubusercontent.com/101175828/216561650-8a524521-d6d2-46fd-91af-0f1cedb5fa21.gif"></img></td> -->
+    <td>
+  <video width="400" height="200" controls>
+    <source src="https://youtu.be/1q3YnXnNhp8" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</td>
+
   </tr>
 
 </table>
