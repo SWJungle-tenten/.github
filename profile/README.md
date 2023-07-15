@@ -123,8 +123,8 @@
 - 캡처기능을 이용해 부분적으로 스크랩하고 싶은 텍스트를 스크랩할 수 있습니다.
 - 스크랩한 텍스트는 홈페이지에서 메모에 Drag&Drop 할 수 있도록 변환되어 있습니다.
 <div style="display:flex; justify-content: space-between;">
-    <img width="400" alt="이미지 스크랩_사진" src="https://github.com/SWJungle-tenten/.github/assets/109846076/2d4a8e0d-91c1-4f60-9917-f487404c1116">
-    <img width="400" alt="텍스트 스크랩_사진" src="https://github.com/SWJungle-tenten/.github/assets/109846076/115eee1b-338d-4d54-84eb-c8b4862258db">
+    <img width="605" alt="스크린샷 2023-07-15 오후 5 24 09" src="https://github.com/SWJungle-tenten/.github/assets/109846076/1a2976c4-48fa-4bb2-      905b-eaa80c635e2a">
+    <img width="605" alt="스크린샷 2023-07-15 오후 5 24 14" src="https://github.com/SWJungle-tenten/.github/assets/109846076/6f737003-76b3-4b37-      8450-615d948eb0c9">
 </div>
 
   
