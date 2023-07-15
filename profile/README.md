@@ -139,7 +139,7 @@
 - 메모를 자유롭게 편집할 수 있습니다.
    <div>
    <!--   추가해야하는 부분   -->
-<!--     <img width="400" height="400" src="https://user-images.githubusercontent.com/101175828/216554060-f565c9d9-2904-4ed3-890b-ce310bee307f.gif"> </img> -->
+<img width="400" height="400" src="https://github.com/SWJungle-tenten/.github/assets/109846076/eca9c53b-cb88-43b6-8222-9e39cf7bdd3d"> </img>
   </div>
 
 #### 6. 검색어별/날짜별 모아보기
@@ -158,10 +158,8 @@
 <table border="0" >
   <tr>
     <!--   추가해야하는 부분   -->
-<!--         <td>    <img src="https://user-images.githubusercontent.com/101175828/216554937-47c37f6d-5eb7-4285-86f4-ab150506d98b.png"></img></td>
-        <td>    <img src="https://user-images.githubusercontent.com/101175828/216554961-c3c90f2b-6a71-4265-8bb3-d9c8cf8022ed.png"> </img></td>
-        <td>    <img src="https://user-images.githubusercontent.com/101175828/216554978-c0545a1f-4705-44f1-bc2e-5c2403cc9777.png"> </img></td> -->
-  </tr>
+        <td>    <img src="https://github.com/SWJungle-tenten/.github/assets/109846076/f32e22ca-8990-4683-8cc0-462322a6ebe6"> </img></td>
+</tr>
 
 </table>
 
@@ -171,7 +169,7 @@
   
   <div>
   <!--   추가해야하는 부분   -->
-<!--     <img src="https://user-images.githubusercontent.com/101175828/216539091-6fe20844-8241-49ef-9c0d-764449dbca8c.gif"> </img> -->
+<img src="https://github.com/SWJungle-tenten/.github/assets/109846076/37695309-c52b-4870-9a1e-c40e2e075e79"> </img>
   </div>
 
 <!-- 아키텍처 -->
