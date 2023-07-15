@@ -94,7 +94,7 @@
 - 게시물 목록의 사이트를 직접 접속하지 않고 미리 볼 수 있습니다.
    <table border="0" >
     <tr>
-        <td><img width="400" height="200" src="https://github.com/SWJungle-tenten/.github/assets/109846076/cf58578a-c0b5-40e4-8ade-7a72dfc0f752"> </img></td>
+        <td><img width="400" height="200" src="https://github.com/SWJungle-tenten/.github/assets/109846076/1a1f5909-0f08-4e1f-bfb2-be4df630fbfd.gif"> </img></td>
    </tr>
 
   </table>
@@ -134,7 +134,7 @@
 - 메모를 자유롭게 편집할 수 있습니다.
    <table border="0" >
     <tr>
-        <td><img width="400" height="200" src="https://github.com/SWJungle-tenten/.github/assets/109846076/a810cea0-960f-45b3-9e19-717e7181663b"> </img></td>
+        <td><img width="400" height="200" src="https://github.com/SWJungle-tenten/.github/assets/109846076/b3518b20-a65c-4e9f-ab0e-c91a0757adfd.gif"> </img></td>
    </tr>
 
   </table>
@@ -145,7 +145,7 @@
 - **검색어별**로 스크랩한 자료들과 사이트를 홈페이지에서 한 번에 모아볼 수 있습니다.
    <table border="0" >
     <tr>
-        <td><img width="400" height="200" src="https://github.com/SWJungle-tenten/.github/assets/109846076/d10c7963-f7a6-420c-b0e1-61422e733d8c"> </img></td>
+        <td><img width="400" height="200" src="https://github.com/SWJungle-tenten/.github/assets/109846076/85afc612-c31c-4abf-aaf5-a4aea1f83d67.gif"> </img></td>
    </tr>
 
   </table>
@@ -156,7 +156,7 @@
 - 부분 스크랩한 **텍스트**를 한 번에 모아볼 수 있습니다.
    <table border="0" >
     <tr>
-        <td><img width="400" height="200" src="https://github.com/SWJungle-tenten/.github/assets/109846076/0047306e-384e-4807-a44a-14e9e12c1e4d"> </img></td>
+        <td><img width="400" height="200" src="https://github.com/SWJungle-tenten/.github/assets/109846076/c060431d-d65b-4c42-b501-0da8ebd9eb66.gif"> </img></td>
    </tr>
 
   </table>
