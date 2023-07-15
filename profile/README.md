@@ -94,7 +94,7 @@
 - 게시물 목록의 사이트를 직접 접속하지 않고 미리 볼 수 있습니다.
    <table border="0" >
     <tr>
-        <td><img width="400" height="200" src="https://github.com/SWJungle-tenten/.github/assets/109846076/417edfa8-fb54-482e-ab4d-3206b21cb84e"> </img></td>
+        <td><img width="400" height="200" src="https://github.com/SWJungle-tenten/.github/assets/109846076/cf58578a-c0b5-40e4-8ade-7a72dfc0f752"> </img></td>
    </tr>
 
   </table>
@@ -134,7 +134,7 @@
 - 메모를 자유롭게 편집할 수 있습니다.
    <table border="0" >
     <tr>
-        <td><img width="400" height="200" src="https://github.com/SWJungle-tenten/.github/assets/109846076/eca9c53b-cb88-43b6-8222-9e39cf7bdd3d"> </img></td>
+        <td><img width="400" height="200" src="https://github.com/SWJungle-tenten/.github/assets/109846076/a810cea0-960f-45b3-9e19-717e7181663b"> </img></td>
    </tr>
 
   </table>
@@ -145,7 +145,7 @@
 - **검색어별**로 스크랩한 자료들과 사이트를 홈페이지에서 한 번에 모아볼 수 있습니다.
    <table border="0" >
     <tr>
-        <td><img width="400" height="200" src="https://github.com/SWJungle-tenten/.github/assets/109846076/c9c3ed74-b82c-448d-b210-7abbb2883b91"> </img></td>
+        <td><img width="400" height="200" src="https://github.com/SWJungle-tenten/.github/assets/109846076/d10c7963-f7a6-420c-b0e1-61422e733d8c"> </img></td>
    </tr>
 
   </table>
@@ -156,7 +156,7 @@
 - 부분 스크랩한 **텍스트**를 한 번에 모아볼 수 있습니다.
    <table border="0" >
     <tr>
-        <td><img width="400" height="200" src="https://github.com/SWJungle-tenten/.github/assets/109846076/f32e22ca-8990-4683-8cc0-462322a6ebe6"> </img></td>
+        <td><img width="400" height="200" src="https://github.com/SWJungle-tenten/.github/assets/109846076/0047306e-384e-4807-a44a-14e9e12c1e4d"> </img></td>
    </tr>
 
   </table>
@@ -165,7 +165,7 @@
 
 - 검색한 내용을 포함한 스크랩한 텍스트를 찾아내 보여줍니다.
   <div>
-    <img width="400" height="200" src="https://github.com/SWJungle-tenten/.github/assets/109846076/37695309-c52b-4870-9a1e-c40e2e075e79"> </img>
+    <img width="400" height="200" src="https://github.com/SWJungle-tenten/.github/assets/109846076/63bc2bab-de4f-4761-8585-2a5b6f7e36b0"> </img>
   </div>
 
 <!-- 아키텍처 -->
