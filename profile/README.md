@@ -119,9 +119,7 @@
 - 캡처기능을 이용해 부분적으로 스크랩하고 싶은 이미지를 스크랩할 수 있습니다.
 - 스크랩한 이미지는 홈페이지에서 메모로 Drag&Drop 할 수 있도록 변환되어 있습니다.
   <div>
-  <!--   추가해야하는 부분   -->
-<!--     <img width="400" height="230" src="https://user-images.githubusercontent.com/101175828/216539463-35aa8836-9b30-41c0-aeac-ef03335c031e.gif"> </img>
-    <img width="300" height="230" src="https://user-images.githubusercontent.com/101175828/216539648-c765fe17-f104-4500-96ab-0a074e0e70d2.gif"> </img> -->
+    <img width="400" alt="텍스트 스크랩_사진" src="https://github.com/SWJungle-tenten/.github/assets/109846076/115eee1b-338d-4d54-84eb-c8b4862258db">
   </div>
 
 #### 4. 텍스트 부분스크랩하기
@@ -129,8 +127,7 @@
 - 캡처기능을 이용해 부분적으로 스크랩하고 싶은 텍스트를 스크랩할 수 있습니다.
 - 스크랩한 텍스트는 홈페이지에서 메모에 Drag&Drop 할 수 있도록 변환되어 있습니다.
   <div>
-  <!--   추가해야하는 부분   -->
-<!--     <img  src="https://user-images.githubusercontent.com/101175828/216539214-8ee34979-d587-49df-a343-38fcc02f5be5.gif"> </img> -->
+    <img width="400" alt="이미지 스크랩_사진" src="https://github.com/SWJungle-tenten/.github/assets/109846076/2d4a8e0d-91c1-4f60-9917-f487404c1116">
   </div>
   
 #### 5. 메모장
@@ -170,7 +167,7 @@
 
 - 검색한 내용을 포함한 스크랩한 텍스트를 찾아내 보여줍니다.
   <div>
-    <img src="https://github.com/SWJungle-tenten/.github/assets/109846076/37695309-c52b-4870-9a1e-c40e2e075e79"> </img>
+    <img width="400" height="200" src="https://github.com/SWJungle-tenten/.github/assets/109846076/37695309-c52b-4870-9a1e-c40e2e075e79"> </img>
   </div>
 
 <!-- 아키텍처 -->
