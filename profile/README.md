@@ -137,40 +137,45 @@
 
 - 스크랩한 자료들을 Drag&Drop 으로 간편하게 메모에 넣을 수 있습니다.
 - 메모를 자유롭게 편집할 수 있습니다.
-   <div>
-   <!--   추가해야하는 부분   -->
-<img width="400" height="400" src="https://github.com/SWJungle-tenten/.github/assets/109846076/eca9c53b-cb88-43b6-8222-9e39cf7bdd3d"> </img>
-  </div>
+   <table border="0" >
+    <tr>
+        <td><img width="400" height="200" src="https://github.com/SWJungle-tenten/.github/assets/109846076/eca9c53b-cb88-43b6-8222-9e39cf7bdd3d"> </img></td>
+   </tr>
+
+  </table>
 
 #### 6. 검색어별/날짜별 모아보기
 
 - **날짜별**로 스크랩한 자료들과 사이트를 홈페이지에서 한 번에 모아볼 수 있습니다.
 - **검색어별**로 스크랩한 자료들과 사이트를 홈페이지에서 한 번에 모아볼 수 있습니다.
-   <div>
-<!--      추가해야하는 부분   -->
-<img width="400" height="230" src="https://github.com/SWJungle-tenten/.github/assets/109846076/c9c3ed74-b82c-448d-b210-7abbb2883b91"> </img>
-  </div>
+   <table border="0" >
+    <tr>
+        <td><img width="400" height="200" src="https://github.com/SWJungle-tenten/.github/assets/109846076/f32e22ca-8990-4683-8cc0-462322a6ebe6"> </img></td>
+   </tr>
+
+  </table>
 
 #### 7. 이미지/텍스트 모아보기
 
 - 부분 스크랩한 **이미지**를 한 번에 모아볼 수 있습니다.
 - 부분 스크랩한 **텍스트**를 한 번에 모아볼 수 있습니다.
-<table border="0" >
-  <tr>
-    <!--   추가해야하는 부분   -->
-        <td>    <img src="https://github.com/SWJungle-tenten/.github/assets/109846076/f32e22ca-8990-4683-8cc0-462322a6ebe6"> </img></td>
-</tr>
+   <table border="0" >
+    <tr>
+        <td><img width="400" height="200" src="https://github.com/SWJungle-tenten/.github/assets/109846076/f32e22ca-8990-4683-8cc0-462322a6ebe6"> </img></td>
+   </tr>
 
-</table>
+  </table>
 
 #### 8. 검색 기능
 
 - 검색한 내용을 포함한 스크랩한 텍스트를 찾아내 보여줍니다.
-  
-  <div>
-  <!--   추가해야하는 부분   -->
-<img src="https://github.com/SWJungle-tenten/.github/assets/109846076/37695309-c52b-4870-9a1e-c40e2e075e79"> </img>
-  </div>
+   <table border="0" >
+    <tr>
+        <td><img width="400" height="200" src="https://github.com/SWJungle-tenten/.github/assets/109846076/37695309-c52b-4870-9a1e-c40e2e075e79
+"> </img></td>
+   </tr>
+
+  </table>
 
 <!-- 아키텍처 -->
 
