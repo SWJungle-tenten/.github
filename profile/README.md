@@ -169,13 +169,9 @@
 #### 8. 검색 기능
 
 - 검색한 내용을 포함한 스크랩한 텍스트를 찾아내 보여줍니다.
-   <table border="0" >
-    <tr>
-        <td><img width="400" height="200" src="https://github.com/SWJungle-tenten/.github/assets/109846076/37695309-c52b-4870-9a1e-c40e2e075e79
-"> </img></td>
-   </tr>
-
-  </table>
+  <div>
+    <img src="https://github.com/SWJungle-tenten/.github/assets/109846076/37695309-c52b-4870-9a1e-c40e2e075e79"> </img>
+  </div>
 
 <!-- 아키텍처 -->
 
