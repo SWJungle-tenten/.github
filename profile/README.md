@@ -92,18 +92,14 @@
 #### 1. 사이트 미리보기
 
 - 게시물 목록의 사이트를 직접 접속하지 않고 미리 볼 수 있습니다.
-<table border="0" >
-  [![링크 미리보기](http://img.youtube.com/vi/1q3YnXnNhp8/0.jpg)](https://youtu.be/1q3YnXnNhp8)
-<!--   <tr>
-<td>
-  <video width="400" height="200" controls>
-    <source src="[![링크 미리보기](http://img.youtube.com/vi/1q3YnXnNhp8/0.jpg)](https://youtu.be/1q3YnXnNhp8)">
-  </video>
-</td>
-
-  </tr> -->
-
+<table>
+  <tr>
+    <td>
+      ![링크 미리보기](https://www.youtube.com/watch?v=1q3YnXnNhp8)
+    </td>
+  </tr>
 </table>
+
 
 #### 2. 링크 스크랩하기
 
