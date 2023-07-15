@@ -93,15 +93,15 @@
 
 - 게시물 목록의 사이트를 직접 접속하지 않고 미리 볼 수 있습니다.
 <table border="0" >
-  <tr>
-<!-- <td>
+  [![링크 미리보기](http://img.youtube.com/vi/1q3YnXnNhp8/0.jpg)](https://youtu.be/1q3YnXnNhp8)
+<!--   <tr>
+<td>
   <video width="400" height="200" controls>
-    <source src="https://www.youtube.com/watch?v=1q3YnXnNhp8">
+    <source src="[![링크 미리보기](http://img.youtube.com/vi/1q3YnXnNhp8/0.jpg)](https://youtu.be/1q3YnXnNhp8)">
   </video>
-</td> -->
-[![링크 미리보기](http://img.youtube.com/vi/1q3YnXnNhp8/0.jpg)](https://youtu.be/1q3YnXnNhp8)
+</td>
 
-  </tr>
+  </tr> -->
 
 </table>
 
