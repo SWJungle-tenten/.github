@@ -92,15 +92,12 @@
 #### 1. 사이트 미리보기
 
 - 게시물 목록의 사이트를 직접 접속하지 않고 미리 볼 수 있습니다.
-<table>
-  <tr>
-    <td>
-      ![링크 미리보기](https://www.youtube.com/watch?v=1q3YnXnNhp8)
-    </td>
-  </tr>
-</table>
+   <table border="0" >
+    <tr>
+        <td><img width="400" height="200" src="https://github.com/SWJungle-tenten/.github/assets/109846076/417edfa8-fb54-482e-ab4d-3206b21cb84e"> </img></td>
+   </tr>
 
-
+  </table>
 #### 2. 링크 스크랩하기
 
 - 스크랩한 사이트들을 홈페이지에서 한 눈에 모아볼 수 있습니다.
