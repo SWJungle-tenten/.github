@@ -97,7 +97,7 @@
   <tr>
 <td>
   <video width="400" height="200" controls>
-    <source src="http://img.youtube.com/vi/1q3YnXnNhp8/0.jpg">
+    <source src="https://www.youtube.com/watch?v=1q3YnXnNhp8">
   </video>
 </td>
 
