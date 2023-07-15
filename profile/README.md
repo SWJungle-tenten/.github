@@ -147,8 +147,8 @@
 - **날짜별**로 스크랩한 자료들과 사이트를 홈페이지에서 한 번에 모아볼 수 있습니다.
 - **검색어별**로 스크랩한 자료들과 사이트를 홈페이지에서 한 번에 모아볼 수 있습니다.
    <div>
-   <!--   추가해야하는 부분   -->
-<!--     <img width="400" height="230" src="https://user-images.githubusercontent.com/101175828/216561358-16fb58e4-8401-406f-bdb4-5a42b8dc047b.gif"> </img> -->
+<!--      추가해야하는 부분   -->
+<img width="400" height="230" src="https://github.com/SWJungle-tenten/.github/assets/109846076/c9c3ed74-b82c-448d-b210-7abbb2883b91"> </img>
   </div>
 
 #### 7. 이미지/텍스트 모아보기
