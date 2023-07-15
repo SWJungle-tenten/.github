@@ -165,7 +165,7 @@
 
 - 검색한 내용을 포함한 스크랩한 텍스트를 찾아내 보여줍니다.
   <div>
-    <img width="400" height="200" src="https://github.com/SWJungle-tenten/.github/assets/109846076/64e976d6-2763-48d0-9220-1886166be442.gif"> </img>
+    <img width="400" height="250" src="https://github.com/SWJungle-tenten/.github/assets/109846076/64e976d6-2763-48d0-9220-1886166be442.gif"> </img>
   </div>
 
 <!-- 아키텍처 -->
