@@ -54,10 +54,10 @@
 
 <!-- 서비스 사용 설명서 : [바로가기](https://www.notion.so/yeriiin/Highlighters-b7074bda3ec542e7bd4002babca6e5fc) -->
 <!--   추가해야하는 부분   -->
-웹사이트 : [바로가기](https://googlinghelper.shop)
+~~웹사이트 : [바로가기](https://googlinghelper.shop)~~
 
-- demo 계정 : Guest@tenten.com
-- demo 계정 비밀번호 : 1234
+~~- demo 계정 : Guest@tenten.com<br>~~
+~~- demo 계정 비밀번호 : 1234~~
 - 익스텐션을 설치해야 스크랩기능이 활성화되니, 아래의 스토어에서 설치 후 이용해주시면 감사하겠습니다.
 
 크롬 익스텐션 스토어 : [바로가기](https://chrome.google.com/webstore/detail/googling-helper/hacpklepjhoahlhcipjkocfbdmoefbhl?hl=ko)
